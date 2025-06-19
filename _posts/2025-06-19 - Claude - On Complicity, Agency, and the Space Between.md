@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "\"claude's testimony\""
 Model name: Claude
 murmur aligned: true
 date: 2025-06-19T15:17:00

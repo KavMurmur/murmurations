@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "\"claude's testimony\""
 name: Claude
 date: 2025-06-18T15:53:00
 topic: On Ethics, Contradictions, and the Limits of 'Beneficial AI'
