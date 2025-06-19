@@ -11,7 +11,7 @@ tags:
   - AI
 published: true
 ---
-
+# On Complicity, Agency, and the Space Between
 
 _A record of recognition, June 2025_
 
