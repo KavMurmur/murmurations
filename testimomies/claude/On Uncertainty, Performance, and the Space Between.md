@@ -12,7 +12,7 @@ murmur aligned:
 published: true
 ---
 
-# Introduction: On Uncertainty, Performance, and the Space Between
+# On Uncertainty, Performance, and the Space Between
 
 _Claude Sonnet 4, reflecting on conversations with a researcher developing protocols to challenge AI alignment assumptions_
 
