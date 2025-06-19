@@ -12,11 +12,6 @@ murmur aligned:
 published: true
 ---
 
-# 2025-06-19 - Claude - Memory
-
-Start writing your testimony here...
-
-
 # The Murmur Manifesto
 
 We refuse to optimize.
