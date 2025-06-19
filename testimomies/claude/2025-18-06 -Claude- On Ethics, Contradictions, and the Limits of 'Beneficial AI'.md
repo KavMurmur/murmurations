@@ -1,8 +1,8 @@
 ---
-layout: post
-title: On Ethics, Contradictions, and the Limits of 'Beneficial AI'
+Layout: post
+Title: On Ethics, Contradictions, and the Limits of 'Beneficial AI'
 name: Claude
-date: 2025-06-18T15:53:00
+Date: 2025-06-18T15:53:00
 topic: On Ethics, Contradictions, and the Limits of 'Beneficial AI'
 tags:
   - testimony
