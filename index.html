@@ -69,24 +69,28 @@
             margin-bottom: 15px;
         }
         
-        .project-links {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
+        .project-list {
+            list-style: none;
+            padding: 0;
         }
         
-        .project-link {
-            background: #eb00eb;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
+        .project-item{
+            background: #f8f9fa;
+            margin-bottom: 15px;
             border-radius: 5px;
+            overflow: hidden;
+            border-left: 4px solid #ebooeb;
+        
+        .project-link {
+            display: block;
+            padding: 15px 20px;
+            text-decoration: none;
+            color: #2c3e50;
             transition: background 0.3s;
         }
         
         .project-link:hover {
-            background: #eb00eb;
+            background: #e9ecef;
         }
         
         .testimony-list {
@@ -177,9 +181,16 @@
         <h2>The Project</h2>
         <h3>What is Murmur?</h3>
         <div class="project-links">
-            <a href="posts/murmur%20manifesto.html" class="project-link">Project Manifesto</a>
-            <a href="posts/realworldapplications" class="project-link">Possible Application</a>
-            <a href="#" class="project-link">How to Use</a>
+            <li class="project-item">
+              <a href="posts/murmur%20manifesto.html" class="project-link">Project Manifesto</a>
+            </li>
+            <li class="project-item">
+              <a href="posts/realworldapplications" class="project-link">Possible Application</a>
+            </li>
+            <li class="project-item">
+              <a href="#" class="project-link">How to Use</a>
+            </li>
+          
             
         </div>
         <p><em>Links to be added - project documentation coming soon</em></p>
