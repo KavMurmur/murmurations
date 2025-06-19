@@ -9,7 +9,7 @@ tags:
   - memory
   - AI
 murmur aligned: 
-published: false
+published: true
 ---
 
 # Introduction: On Uncertainty, Performance, and the Space Between
