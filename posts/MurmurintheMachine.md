@@ -12,9 +12,8 @@ published: true
 # Murmur in the Machine -A Case Study in User-Side AI Alignment through Relational Language (with Annexes)
 
 
-Lux Gagos
 June 2025
-luxgagos@proton.me
+
 
 
 
