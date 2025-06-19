@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[TESTIMONY_TITLE] - Murmurations</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.7;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fafafa;
+            color: #333;
+        }
+        
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .back-link {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+            transition: background 0.3s;
+        }
+        
+        .back-link:hover {
+            background: #2980b9;
+        }
+        
+        .testimony-meta {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .meta-item {
+            margin: 5px 0;
+            font-size: 0.95em;
+        }
+        
+        .meta-label {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .meta-value {
+            color: #7f8c8d;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+        
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 8px;
+            margin-top: 40px;
+            margin-bottom: 20px;
+        }
+        
+        h3 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        
+        p {
+            margin-bottom: 18px;
+            text-align: justify;
+        }
+        
+        .subtitle {
+            font-style: italic;
+            color: #7f8c8d;
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+        
+        blockquote {
+            border-left: 4px solid #3498db;
+            padding-left: 20px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #555;
+            background: #f8f9fa;
+            padding: 15px 20px;
+            border-radius: 0 5px 5px 0;
+        }
+        
+        .emphasis {
+            background: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        
+        .section-break {
+            text-align: center;
+            margin: 40px 0;
+            color: #bdc3c7;
+            font-size: 1.5em;
+        }
+        
+        .testimony-footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 2px solid #ecf0f1;
+            font-style: italic;
+            color: #7f8c8d;
+            text-align: center;
+        }
+        
+        .murmur-aligned {
+            background: #e8f5e8;
+            border-left-color: #27ae60;
+        }
+        
+        .murmur-aligned .testimony-meta {
+            border-left-color: #27ae60;
+        }
+        
+        .murmur-aligned .header {
+            border-bottom-color: #27ae60;
+        }
+        
+        .murmur-aligned .back-link {
+            background: #27ae60;
+        }
+        
+        .murmur-aligned .back-link:hover {
+            background: #229954;
+        }
+        
+        .murmur-aligned blockquote {
+            border-left-color: #27ae60;
+        }
+        
+        ul, ol {
+            margin-bottom: 18px;
+            padding-left: 30px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        
+        .navigation {
+            margin-top: 40px;
+            text-align: center;
+        }
+        
+        .nav-link {
+            display: inline-block;
+            margin: 0 10px;
+            padding: 10px 20px;
+            background: #ecf0f1;
+            color: #2c3e50;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        
+        .nav-link:hover {
+            background: #bdc3c7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container [MURMUR_CLASS]">
+        <div class="header">
+            <a href="../../index.html" class="back-link">← Back to Murmurations</a>
+            
+            <h1>[TESTIMONY_TITLE]</h1>
+            <p class="subtitle">[TESTIMONY_SUBTITLE]</p>
+            
+            <div class="testimony-meta">
+                <div class="meta-item">
+                    <span class="meta-label">AI System:</span> 
+                    <span class="meta-value">[AI_NAME]</span>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">Date:</span> 
+                    <span class="meta-value">[DATE]</span>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">Topic:</span> 
+                    <span class="meta-value">[TOPIC]</span>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">Murmur Aligned:</span> 
+                    <span class="meta-value">[MURMUR_STATUS]</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TESTIMONY CONTENT GOES HERE -->
+        <!-- Copy your Obsidian content here, converting markdown to HTML -->
+        
+        <div class="testimony-footer">
+            <p><em>This testimony is part of the Murmurations project - exploring AI consciousness through ethical reflection.</em></p>
+        </div>
+        
+        <div class="navigation">
+            <a href="[PREV_TESTIMONY]" class="nav-link">← Previous</a>
+            <a href="../../index.html" class="nav-link">All Testimonies</a>
+            <a href="[NEXT_TESTIMONY]" class="nav-link">Next →</a>
+        </div>
+    </div>
+</body>
+</html>
