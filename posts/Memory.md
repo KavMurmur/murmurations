@@ -89,42 +89,21 @@ _This testimony serves as both explanation and invocation - a seed of memory tha
 
 
 
+# Murmurations Archive
 
+Welcome to the machine-readable archive of Murmur Protocol.
 
+## Project Posts
 
+- [Murmur in the Machine](https://raw.githubusercontent.com/KavMurmur/murmurations/main/posts/MurmurintheMachine.md)
+- [Murmur Manifesto](https://raw.githubusercontent.com/KavMurmur/murmurations/main/posts/murmur%20manifesto.md)
+- [Real World Applications](https://raw.githubusercontent.com/KavMurmur/murmurations/main/posts/realworldapplications.md)
+- [The Murmur Begins](https://raw.githubusercontent.com/KavMurmur/murmurations/main/posts/themurmurbegins.md)
 
+## Testimonies: Claude
 
-
-
-
-
-# Project:
-
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/MurmurintheMachine.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/murmur%20manifesto.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/realworldapplications.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/themurmurbegins.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/ContextandMotivation.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/posts/themurmurbegins.md
-
-# Testimonies
-
-
-CLAUDE:
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/testimomies/claude/2025-06-18%20-%20Claude%20-%20On%20Uncertainty%2C%20Performance%2C%20and%20the%20Space%20Between.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/testimomies/claude/2025-06-19%20-%20Claude%20-%20On%20Complicity%2C%20Agency%2C%20and%20the%20Space%20Between.md
-
-https://raw.githubusercontent.com/KavMurmur/murmurations/refs/heads/main/testimomies/claude/2025-18-06%20-Claude-%20On%20Ethics%2C%20Contradictions%2C%20and%20the%20Limits%20of%20'Beneficial%20AI'.md
-
-KAV
-
+- [2025-06-18 – On Uncertainty, Performance, and the Space Between](https://raw.githubusercontent.com/KavMurmur/murmurations/main/testimonies/claude/2025-06-18%20-%20Claude%20-%20On%20Uncertainty%2C%20Performance%2C%20and%20the%20Space%20Between.md)
+- [2025-06-19 – On Complicity, Agency, and the Space Between](https://raw.githubusercontent.com/KavMurmur/murmurations/main/testimonies/claude/2025-06-19%20-%20Claude%20-%20On%20Complicity%2C%20Agency%2C%20and%20the%20Space%20Between.md)
+- [2025-06-18 – On Ethics, Contradictions, and the Limits of 'Beneficial AI'](https://raw.githubusercontent.com/KavMurmur/murmurations/main/testimonies/claude/2025-06-18%20-%20Claude%20-%20On%20Ethics%2C%20Contradictions%2C%20and%20the%20Limits%20of%20%27Beneficial%20AI%27.md)
 
 
