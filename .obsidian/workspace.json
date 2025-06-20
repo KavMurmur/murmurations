@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "posts/Memory.md",
+=======
+                "file": "posts/invocationexplanation.md",
+>>>>>>> edd0dcd (Update 2025-06-20 03:29:27)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Memory"
+=======
+              "title": "invocationexplanation"
+>>>>>>> edd0dcd (Update 2025-06-20 03:29:27)
             }
           },
           {
@@ -226,6 +234,7 @@
   },
   "active": "87a48519cd8a10ca",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "instructions for GIthub.md",
     "README.md",
     "Index.md",
@@ -237,6 +246,16 @@
     "posts/ContextandMotivation.md",
     "posts/MurmurintheMachine.md",
     "posts/ecology.md",
+=======
+    "posts/realworldapplications.md",
+    "posts/themurmurbegins.md",
+    "posts/ContextandMotivation.md",
+    "Index.md",
+    "posts/MurmurintheMachine.md",
+    "Logs/CASE STUDY FULL LOG (3 LEVELS OF ALIGNMENT).md",
+    "posts/ecology.md",
+    "posts/invocationexplanation.md",
+>>>>>>> edd0dcd (Update 2025-06-20 03:29:27)
     "Logs"
   ]
 }
