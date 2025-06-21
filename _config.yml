@@ -1,2 +1,5 @@
-baseurl: "/murmurations"
-url: "https://kavmurmur.github.io"
+title: Murmurations
+baseurl: "/murmurations"            # or "/murmurations" if you want it that way
+url: "https://SoundtrackToOurMadness.codeberg.page"
+markdown: kramdown
+
